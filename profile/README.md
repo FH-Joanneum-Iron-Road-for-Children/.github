@@ -1,7 +1,7 @@
 <br>
 <h3 align="center">
-  <a href="../images/logo.png">
-  <img src="../images/logo.png" alt="IRFC Logo" width="250" style="border-radius: 50px;">
+  <a href="./images/logo.png">
+  <img src="./images/logo.png" alt="IRFC Logo" width="250" style="border-radius: 50px;">
   </a>
 </h3>
 <br>

@@ -9,5 +9,5 @@
 ## 🛵 About IRFC
 The Iron Road for Children, IRFC for short, is Austria's largest open-brand festival weekend for bikes, Vespas and US cars.
 
-## FH Joannuem 
+## 🎓 FH Joannuem 
 This project is developed and maintained by FH JOANNEUM - University of Applied Sciences, Bachelor degree program Mobile Software Development (MSD20). 
